@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553265812045",
+    "firebase_url": "https://imageinsta-68b7c.firebaseio.com",
+    "project_id": "imageinsta-68b7c",
+    "storage_bucket": "imageinsta-68b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553265812045:android:d6d042e641f0dbb8ba4204",
+        "android_client_info": {
+          "package_name": "com.example.imageinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553265812045-9g61beobags6uf9k97fpmub2kc2jrt97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageinsta",
+            "certificate_hash": "1855afd6e37a5379e519d8ebd7e79021df099fc3"
+          }
+        },
+        {
+          "client_id": "553265812045-an2gs61gehpgjtg8mivsntkd3pbcnhmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgMckV-_LeeliTlTIVDha7wSqLEeZfGPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553265812045-an2gs61gehpgjtg8mivsntkd3pbcnhmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
